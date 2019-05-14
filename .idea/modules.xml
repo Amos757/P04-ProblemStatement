@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P04-ProblemStatement-master.iml" filepath="$PROJECT_DIR$/P04-ProblemStatement-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P04-RevisionNotes.iml" filepath="$PROJECT_DIR$/P04-RevisionNotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemStatement.iml" filepath="$PROJECT_DIR$/ProblemStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
